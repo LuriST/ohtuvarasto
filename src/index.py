@@ -1,4 +1,3 @@
-# Tämä on tarkoituksella erittäin pitkä kommenttirivi, jolla testaamme Pylintin rivinpituusrajoituksen toimintaa.
 from varasto import Varasto
 
 
